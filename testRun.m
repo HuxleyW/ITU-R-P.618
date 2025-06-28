@@ -26,3 +26,4 @@ userPos = [longitude latitude];
 
 A_Rain = calculateRainAttenuation(userPos, satPos, f, height, p, Data);
 disp(A_Rain)
+
